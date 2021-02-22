@@ -1,0 +1,6 @@
+!/**/.gitkeep
+.vscode
+
+obj/*
+bin/Debug/netcoreapp3.1/*
+!bin/Debug/netcoreapp3.1/*.gitkeep
